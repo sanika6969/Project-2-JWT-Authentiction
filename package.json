@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.23.3"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
